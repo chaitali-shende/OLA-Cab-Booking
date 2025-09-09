@@ -30,7 +30,7 @@ OlaCabRideBookingProject/
 
 │── src/
 
-│   └── com/cab/ola_cab_ride_booking
+│   └── com/ola_cab_ride_booking
 
                 │── RideRequest.java
                 
